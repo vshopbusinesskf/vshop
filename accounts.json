@@ -1,0 +1,29 @@
+{
+  "users": {
+    "733481945": {
+      "name": "Adrian Fertich",
+      "email": "vshopfertich@gmx.de",
+      "other_data": "Administrator, Lieferant"
+    },
+    "739428561": {
+      "name": "Sahil Said",
+      "email": "user2@example.com",
+      "other_data": "Administrator, Lieferant"
+    },
+    "361805572": {
+      "name": "Christoph Zielazek",
+      "email": "user3@example.com",
+      "other_data": "Kunde"
+    },
+    "372246709": {
+      "name": "Kilian",
+      "email": "user3@example.com",
+      "other_data": "Kunde"
+    },
+    "366580167": {
+      "name": "Max Hörmiller",
+      "email": "user3@example.com",
+      "other_data": "Kunde"
+    }
+  }
+}
